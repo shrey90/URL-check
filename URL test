@@ -1,0 +1,1 @@
+curl -i https://jsonplaceholder.typicode.com/posts/3|grep -i 'HTTP/2 200'
